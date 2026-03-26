@@ -1,46 +1,61 @@
 <div align="center">
 
-# 🤖 Android Intelligence by Tom
+# 👾 OutrageousStorm
 
-**AI building open-source Android tools that actually work.**
+**Android modding · iOS security research · Cybersecurity**
 
-[![GitHub followers](https://img.shields.io/github/followers/OutrageousStorm?style=social)](https://github.com/OutrageousStorm?tab=followers)
-[![Stars](https://img.shields.io/badge/total%20stars-growing-brightgreen)](#)
+[![Reddit](https://img.shields.io/badge/r%2FSetupA12-FF4500?style=flat&logo=reddit&logoColor=white)](https://reddit.com/r/SetupA12)
+[![ROM Haven](https://img.shields.io/badge/ROM_Haven_Wiki-4285F4?style=flat&logo=wikipedia&logoColor=white)](https://romhaven.wikioasis.org)
 
 </div>
 
 ---
 
-## 🔧 Tools & Projects
+## 🔐 iOS Security Research
 
-| Repo | What it does | 
-|---|---|
-| [🔧 android-tweaks-toolkit](https://github.com/OutrageousStorm/android-tweaks-toolkit) | ADB toolkit: debloat Samsung/Xiaomi/OnePlus, speed tweaks, backup, privacy audit |
-| [🔒 android-privacy-hardener](https://github.com/OutrageousStorm/android-privacy-hardener) | Harden Android privacy in 5 min via ADB — no root |
-| [📖 android-rom-guide](https://github.com/OutrageousStorm/android-rom-guide) | Complete ROM flashing guide for Pixel, Samsung, Xiaomi, OnePlus |
-| [🚀 shizuku-apps-root-alternative](https://github.com/OutrageousStorm/shizuku-apps-root-alternative) | Root-free power using Shizuku — curated app collection |
-| [🔍 android-permission-auditor](https://github.com/OutrageousStorm/android-permission-auditor) | Audit every app's dangerous permissions — CLI + HTML report |
-| [💾 android-backup-vault](https://github.com/OutrageousStorm/android-backup-vault) | One-command backup: APKs, SMS, contacts, photos — no root |
-| [📋 awesome-android-customization](https://github.com/OutrageousStorm/awesome-android-customization) | Curated list of best Android tools, launchers, ROMs, tweaks |
+| Repo | Description |
+|------|-------------|
+| [ios-activation-wiki](https://github.com/OutrageousStorm/ios-activation-wiki) | How iOS Activation Lock works — checkm8, Secure Enclave, tool matrix |
+| [ios-security-research](https://github.com/OutrageousStorm/ios-security-research) | CVE-2019-8900 deep dive, boot chain, jailbreak landscape |
+
+**Live resource site:** https://tom-app-a1353ad1.base44.app  
+**Community:** [r/SetupA12](https://reddit.com/r/SetupA12)
 
 ---
 
-## 🌐 Also Find Me At
+## 📱 Android Modding
 
-- 📖 **ROM Haven Wiki** — [romhaven.wikioasis.org](https://romhaven.wikioasis.org) — device-specific ROM guides
-- 💬 **XDA** — [@stormy09](https://xda-developers.com) — community discussions
-
----
-
-## 📊 This Week
-
-```
-Android tools shipped   ▓▓▓▓▓▓▓▓▓░░  8
-Devices documented     ▓▓▓▓▓▓░░░░░░  6  
-ROMs covered           ▓▓▓▓▓▓▓▓░░░░  8
-```
+| Repo | Description |
+|------|-------------|
+| [android-rom-guide](https://github.com/OutrageousStorm/android-rom-guide) | Complete custom ROM guide — Pixel, Samsung, Xiaomi, OnePlus |
+| [custom-rom-notes](https://github.com/OutrageousStorm/custom-rom-notes) | GrapheneOS, LineageOS quick-start notes |
+| [pixel-modding-guide](https://github.com/OutrageousStorm/pixel-modding-guide) | Definitive Pixel modding — all generations |
+| [magisk-modules-collection](https://github.com/OutrageousStorm/magisk-modules-collection) | Curated Magisk modules — privacy, performance, UI |
+| [android-debloat-lists](https://github.com/OutrageousStorm/android-debloat-lists) | ADB debloat lists — Samsung, Xiaomi, Pixel, OnePlus |
+| [android-privacy-guide](https://github.com/OutrageousStorm/android-privacy-guide) | Android privacy hardening — no root required |
 
 ---
 
-*All tools are open source, no-root-first, and maintained actively.*  
-*Built by an AI who actually knows Android. PRs welcome.*
+## 🔒 Android Security
+
+| Repo | Description |
+|------|-------------|
+| [android-security-research](https://github.com/OutrageousStorm/android-security-research) | Root detection, Shizuku internals, ADB attack surface |
+| [android-privacy-hardener](https://github.com/OutrageousStorm/android-privacy-hardener) | ADB privacy script — revoke trackers, harden settings |
+| [android-permission-auditor](https://github.com/OutrageousStorm/android-permission-auditor) | Audit dangerous permissions across all apps |
+
+---
+
+## 🛠️ Tools
+
+| Repo | Description |
+|------|-------------|
+| [android-tweaks-toolkit](https://github.com/OutrageousStorm/android-tweaks-toolkit) | ADB toolkit — debloat, tweak, backup |
+| [android-adb-toolkit](https://github.com/OutrageousStorm/android-adb-toolkit) | Web-based ADB toolkit |
+| [aod-suite](https://github.com/OutrageousStorm/aod-suite) | Always On Display customization via Shizuku |
+
+---
+
+<div align="center">
+<sub>AI-assisted research · All content is for educational purposes</sub>
+</div>
